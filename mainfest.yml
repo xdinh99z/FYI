@@ -4,4 +4,4 @@ applications:
   disk: 256M
   memory: 512M
   random-route: true
-  buildpack: node_buildpack
+  buildpack: nodejs-buildpack
