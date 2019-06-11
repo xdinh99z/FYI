@@ -5,4 +5,5 @@ ROOT_FOLDER=$PWD
 cd todoApp
 
 npm install
-npm build
+npm install @angular/cli
+ng build
