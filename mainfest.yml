@@ -5,5 +5,4 @@ applications:
   memory: 512M
   random-route: true
   buildpack: node_buildpack
-  env:
-    GOPACKAGENAME: FYIDeloy
+  path: dist
