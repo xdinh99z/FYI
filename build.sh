@@ -7,3 +7,5 @@ cd todoApp
 npm install
 npm install @angular/cli
 npm run build
+
+ls -la
