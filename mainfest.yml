@@ -5,3 +5,4 @@ applications:
   memory: 512M
   random-route: true
   buildpack: nodejs_buildpack
+  path: dist
