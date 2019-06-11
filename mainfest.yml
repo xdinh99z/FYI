@@ -1,0 +1,9 @@
+---
+applications:
+- name: FYIDeloy
+  disk: 256M
+  memory: 512M
+  random-route: true
+  buildpack: node_buildpack
+  env:
+    GOPACKAGENAME: FYIDeloy
