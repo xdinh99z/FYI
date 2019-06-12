@@ -12,7 +12,7 @@ npm install
 npm install @angular/cli
 npm run build
 
-cd dist
+#cd dist
 
 ls -la
 #cp -R $OUTPUT_BUILD_FOLDER/* $DIST_FOLDER/
