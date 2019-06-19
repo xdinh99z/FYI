@@ -1,7 +1,10 @@
 ---
 applications:
-- name: FYIDeloy
+- name: FYIUIDeloy
   disk: 256M
   memory: 512M
   random-route: true
-  buildpack: staticfile_buildpack
+  busildpacks:
+    - staticfile_buildpack
+  path: dist
+  stack: cflinuxfs3
